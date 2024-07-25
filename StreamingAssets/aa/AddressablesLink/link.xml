@@ -1,6 +1,7 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="AnimationController" preserve="all" />
+    <type fullname="Arrow" preserve="all" />
     <type fullname="Bread" preserve="all" />
     <type fullname="BreadOvenZone" preserve="all" />
     <type fullname="BreadStandZone" preserve="all" />
@@ -16,6 +17,7 @@
     <type fullname="UI_Emoji" preserve="all" />
     <type fullname="UI_GameScene" preserve="all" />
     <type fullname="UI_Joystick" preserve="all" />
+    <type fullname="UI_MaxCount" preserve="all" />
     <type fullname="UI_TitleScene" preserve="all" />
     <type fullname="UI_TutorialPopup" preserve="all" />
     <type fullname="SerializeFieldDictionary`2[Define/ActionType,UnityEngine.AnimationClip]" preserve="nothing" serialized="true" />
